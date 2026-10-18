@@ -1,22 +1,18 @@
-# flutter-ecommerce-ui
 # Flutter E-commerce UI - Figma to Flutter
 
 Clean & Modern E-commerce App UI built with Flutter. This is a Figma to Flutter conversion example for my Fiverr clients.
 
 ### ✨ Features
-- Modern Product Listing UI
-- Product Details Page
-- Cart UI
-- Clean Code & Responsive Design
-- Figma to Flutter Pixel Perfect
+- Clean & Minimal Design
+- Responsive Product Grid
+- Material 3 Design
+- Reusable Product Card Widgets
+- Ready for Figma to Flutter Conversion
 
-### 📸 Screenshots
-(Add your app screenshots here - drag & drop screenshots)
-
-### 🛠️ Built With
-- Flutter
-- Dart
-- Material Design 3
+### 📱 Screenshots
+| Home Screen | Product Card |
+| --- | --- |
+| Modern grid layout | Clean white card with shadow |
 
 ### 🚀 How to Run
 1. Clone the repo
@@ -24,8 +20,8 @@ Clean & Modern E-commerce App UI built with Flutter. This is a Figma to Flutter 
 3. Run `flutter run`
 
 ### 👨‍💻 Developer
-**Maruf - Flutter Developer from Sylhet, Bangladesh**
-- Fiverr: https://www.fiverr.com/maruf2bai
-- GitHub: https://github.com/maruf2Bai
+**Maruf** - Flutter Developer | Figma to Flutter Expert
+Fiverr: Available for custom projects
 
-> Available for freelance work - Figma to Flutter, Website to App, Amazon Appstore
+---
+Built with ❤️ using Flutter
